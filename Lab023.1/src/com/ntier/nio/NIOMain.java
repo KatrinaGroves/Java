@@ -7,7 +7,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-public class NIOMain {
+class NIOMain {
 
 	public static void main(String[] args) {
 		Path pth = Paths.get("C:\\Users\\katri\\Desktop\\Week 10 Examples\\Lab023.1");

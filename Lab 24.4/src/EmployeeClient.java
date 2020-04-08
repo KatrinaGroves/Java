@@ -3,7 +3,7 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Map.Entry;
 
-public class EmployeeClient {
+class EmployeeClient {
 
 	public static void main(String[] args) {
 		

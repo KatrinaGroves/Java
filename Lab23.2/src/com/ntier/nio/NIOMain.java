@@ -8,7 +8,7 @@ import java.nio.file.Path;
 import java.nio.file.PathMatcher;
 import java.nio.file.Paths;
 
-public class NIOMain {
+class NIOMain {
 
 	public static void main(String[] args) {
 		String pathString = args[0];
