@@ -1,0 +1,13 @@
+Wes Craven's New Nightmare,Movie,1994-10-14,Horror,5
+Step Brothers,Movie,2008-07-25,Comedy,5
+The Others,Movie,2001-08-02,Thriller,3
+The Princess Bride,Movie,1987-09-25,Comedy,4
+My Hero Academia,Series,2016-04-03,Action,4
+Future Diary,Series,2011-10-10,Thriller,5
+Juni Taisen,Series,2017-10-03,Thriller,4
+Tropic Thunder,Movie,2008-08-13,Comedy,5
+Love Actually,Movie,2003-11-14,Comedy,4
+A Cinderella Story,Movie,2004-07-16,Drama,4
+Pulp Fiction,Movie,1994-05-21,Comedy,4
+The Haunting in Connecticut,Movie,2009-03-27,Horror,4
+Fight Club,Movie,1999-09-10,Drama,3
